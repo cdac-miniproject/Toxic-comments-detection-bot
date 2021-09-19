@@ -1,0 +1,2 @@
+# Toxic-comments-detection-bot
+Dealing with toxicity online and curbing harassment has been a growing problem since social media and online conversations have become a part of everyday life. The aim of our project is to detect toxicity in user comments by using machine-learning models. The model will classify comments into 6 types of toxicity: toxic, severe toxic, obscene, threat, insult, identity hate. In addition, we will explore feasibility of using the model for real time use case where model will classify comments in real time so comment moderators can take action.
